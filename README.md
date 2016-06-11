@@ -218,7 +218,7 @@
 - [公式日本語ドキュメント](https://developer.apple.com/jp/documentation/)
 - [Swiftify](https://objectivec2swift.com/#/home/main) - Objective-C
 to Swift Converter 
-- [Swiftのコンパイルエラー寄せ集め](https://samekard.blogspot.jp/2014/09/swifterror.html)
+- [Swiftのコンパイルエラー寄せ集め](https://samekard.blogspot.jp/2014/09/swifterror.html) :page_facing_up: 
 
 #### Libraries
 
