@@ -42,8 +42,6 @@
 - [Facepixelizer](http://www.facepixelizer.com/jp/) - Privacy Image Editor &  anonymizer
 - [20 Free After Effects Templates](http://line25.com/articles/free-after-effects-templates) :page_facing_up:
 
-- [CSSgram](https://una.im/CSSgram/) - Instagramの様なフィルターをCSSで実装
-
 ## Design  
 
 - [easel.ly](http://www.easel.ly/) - Infographic
@@ -182,6 +180,52 @@
 - [Goodfind](https://engineer.goodfind.jp)
 
 
+## Programming Language
 
+- [CodePen](http://codepen.io/)
 
+### JavaScript
 
+- [JavaScripting.com](https://www.javascripting.com/) - JavaScript libraries
+- [JSLint](http://www.jslint.com/)
+
+#### jQuery
+
+- [jQuery Cards](http://jquerycards.com/) -  jQuery plugins
+
+### CSS 
+
+- [CSSFlow](http://www.cssflow.com/) - Code Snippets & UI Kits
+- [CodeMyUI](http://codemyui.tumblr.com/) - Code Snippets
+- [Enjoy CSS](http://enjoycss.com/) - CSS code Generator
+- [Flexbox Patterns](http://www.flexboxpatterns.com/home) - Examples and source code
+- [CSSgram](https://una.im/CSSgram/) - Instagramの様なフィルターをCSSで実装
+
+#### Bootstrap
+
+- [Bootsnipp](http://bootsnipp.com/) - Design elements
+- [Bootswatch](http://bootswatch.com/) - Free themes for Bootstrap
+- [Bootstrap 4 CheatSheet](http://hackerthemes.com/bootstrap-cheatsheet/)
+
+### PHP
+
+#### Laravel
+
+- [Laravel Recipes](http://recipes.laravel.jp/)
+
+### Swift
+
+- [公式日本語ドキュメント](https://developer.apple.com/jp/documentation/)
+- [Swiftify](https://objectivec2swift.com/#/home/main) - Objective-C
+to Swift Converter 
+- [Swiftのコンパイルエラー寄せ集め](https://samekard.blogspot.jp/2014/09/swifterror.html)
+
+#### Libraries
+
+- [Cocoa Controls](https://www.cocoacontrols.com/) - open source UI components
+- [iOS Cookies](http://www.ioscookies.com/)
+- [Swift Modules](https://swiftmodules.com/)
+
+## Theme
+
+- [Theme.Cards](http://www.theme.cards/) 
