@@ -3,7 +3,7 @@
 
 
 
-## WebTools / Service
+## WebTools / Services
 
 - [goodkeyword](http://goodkeyword.net/) - 関連キーワード検索
 - [codic](https://codic.jp/) - Code Naming
@@ -62,19 +62,16 @@
 
 - [ALLTheFreeStock](http://allthefreestock.com/) - All Free Stock
 - [BONSAI](https://www.hellobonsai.com/best-freelance-tools) - Freelance 
-
-### Tools
-
 - [AlternativeTo](http://alternativeto.net/) - Tools Alternatives
 - [FILEHIPPO](http://filehippo.com/jp/mac/) - Software 
  
 
-## Font
+## Fonts
 
 - [dafont.com](http://www.dafont.com/) - 
 
 
-## Icon
+## Icons
 
 - [IconBeast](http://www.iconbeast.com/free/) 
 - [Ego](http://ego-icons.com/) - radical angular style
@@ -110,13 +107,14 @@
 - [CAPPTIVATE.co](http://capptivate.co/)
 
 
-## Sketch
+## Sketch Template
 
 - [Freebiesbug](http://freebiesbug.com/sketch-freebies/)
 - [GraphicBurger](http://graphicburger.com/ui-kits/) 
 - [VisualHierarchy](https://visualhierarchy.co/shop/product-category/sketch-app-resources/)
 
 ### Mobile UI Kit
+
 - [The Ciao UI Kit](https://dribbble.com/shots/2667657-The-Ciao-UI-Kit)
 - [Recipes App UI Kit Freebie](https://dribbble.com/shots/2661249-Recipes-App-UI-Kit-Freebie)
 - [Zara iOS App Concept Sketch Resource](http://www.sketchappsources.com/free-source/1919-zara-ios-app-concept-sketch-freebie-resource.html)
@@ -134,22 +132,22 @@
 - [FADE APP UI KIT](https://www.behance.net/gallery/36367535/APP-UI-KIT-FREEBIE-)
 
 
-#### パーツ
+#### Parts
 
 - [Minimal UI Kit](https://dribbble.com/shots/2671827-Minimal-UI-Kit)
 - [Free mini UI kit V2](http://awesomed.co/free-mini-ui-kit-v2/)
 
-#### マテリアル
+#### Material
 
 - [Material Design Wireframe Kit](https://dribbble.com/shots/2660501-Material-Design-Wireframe-Kit-v-02)
 - [Free Chat UI kit](https://www.invisionapp.com/chat)
 
-#### モックアップ
+#### Mockup
 
 - [Flow](https://dribbble.com/shots/2588294-Flow-iOS-Wireframe-Kit)
 - [CARBON](http://materialmockups.com/)
 
-#### フローチャート
+#### Flowchart 
 
 - [Flowchart kit](https://www.behance.net/gallery/35717379/Flowchart-kit-Free-mobile-wireframing-kit-for-Sketch)
 
