@@ -26,6 +26,7 @@
 - [Lang-8](http://lang-8.com/) - 外国語で書いた文章をネイティブスピーカーが添削
 - [Optimizely](www.optimizely.co) - A/B Testing
 
+
 ### Diagram
 
 - [drow.io](https://www.draw.io/) - Diagram
@@ -37,9 +38,12 @@
 - [オンラインイメージ最適化ツール](http://optimizilla.com/ja/) - 画像圧縮
 - [Compressor.io](https://compressor.io/) - 画像圧縮
 - [Bulk Resize Photos](http://bulkresizephotos.com/) - Resize Image
+- [Facepixelizer](http://www.facepixelizer.com/jp/) - Privacy Image Editor &  anonymizer
+- [20 Free After Effects Templates](http://line25.com/articles/free-after-effects-templates)
+
 - [CSSgram](https://una.im/CSSgram/) - Instagramの様なフィルターをCSSで実装
 
-## Design
+## Design  
 
 - [easel.ly](http://www.easel.ly/) - Infographic
 - [Canva](https://www.canva.com/) - Design
@@ -68,7 +72,11 @@
 
 ## Fonts
 
-- [dafont.com](http://www.dafont.com/) - 
+- [dafont.com](http://www.dafont.com/)
+- [Webページの表現を広げてくれる日本語のWebフォント10選](http://uxmilk.jp/33601)
+- [デザイン性の高いクリエイティブなフリーフォント20個まとめ（商用可）](http://www.webtoolnavi.com/creative-font/)
+- [クオリティの高い手描き風のフリー英語フォント20個まとめ（商用可）](http://www.webtoolnavi.com/free-handwritten-font/)
+- [商用OK多数！使いやすい万能フリーフォント最新コレクション 2016年5月度](http://photoshopvip.net/90737)
 
 
 ## Icons
@@ -80,10 +88,14 @@
 - [ICOOON MONO](http://icooon-mono.com/)
 - [TOUCH GESTURE ICONS](http://www.mobiletuxedo.com/touch-gesture-icons/) - Gesture Icon
 
+- [デザインに活躍するフリーアイコン・イラスト素材24個まとめ](http://www.webtoolnavi.com/free-icon-2016-05/?utm_source=feedly&utm_medium=rss&utm_campaign=free-icon-2016-05)
+
+
 ## Designs
 
 - [dribbble](https://dribbble.com/)
 - [Behance](https://www.behance.net/)
+- [Design Hunt](http://talkaboutdesign.com/)
 
 
 ### Web
@@ -130,6 +142,7 @@
 - [MAX UI kit freebie](https://visualhierarchy.co/shop/product/max-ui-kit-freebie/)
 - [Move | Mobile UI Kit](https://www.behance.net/gallery/36280235/Move-Mobile-UI-Kit-Free-iOS-screens-for-Sketch)
 - [FADE APP UI KIT](https://www.behance.net/gallery/36367535/APP-UI-KIT-FREEBIE-)
+- [Instagram-UI-Kit](https://dribbble.com/shots/2735981-Instagram-UI-Kit)
 
 
 #### Parts
