@@ -1,5 +1,4 @@
 # Bookmarks
- Collection of Resources
 
 :page_facing_up: : article
 
@@ -85,7 +84,6 @@
 - [Flaticon](http://www.flaticon.com/)
 - [ICOOON MONO](http://icooon-mono.com/)
 - [TOUCH GESTURE ICONS](http://www.mobiletuxedo.com/touch-gesture-icons/) - Gesture Icon
-
 - [デザインに活躍するフリーアイコン・イラスト素材24個まとめ](http://www.webtoolnavi.com/free-icon-2016-05/?utm_source=feedly&utm_medium=rss&utm_campaign=free-icon-2016-05) :page_facing_up:
 
 
