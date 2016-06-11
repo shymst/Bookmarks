@@ -1,6 +1,7 @@
 # Bookmarks
  Collection of Resources
 
+:page_facing_up: : article
 
 
 ## WebTools / Services
@@ -39,7 +40,7 @@
 - [Compressor.io](https://compressor.io/) - 画像圧縮
 - [Bulk Resize Photos](http://bulkresizephotos.com/) - Resize Image
 - [Facepixelizer](http://www.facepixelizer.com/jp/) - Privacy Image Editor &  anonymizer
-- [20 Free After Effects Templates](http://line25.com/articles/free-after-effects-templates)
+- [20 Free After Effects Templates](http://line25.com/articles/free-after-effects-templates) :page_facing_up:
 
 - [CSSgram](https://una.im/CSSgram/) - Instagramの様なフィルターをCSSで実装
 
@@ -73,11 +74,10 @@
 ## Fonts
 
 - [dafont.com](http://www.dafont.com/)
-- [Webページの表現を広げてくれる日本語のWebフォント10選](http://uxmilk.jp/33601)
-- [デザイン性の高いクリエイティブなフリーフォント20個まとめ（商用可）](http://www.webtoolnavi.com/creative-font/)
-- [クオリティの高い手描き風のフリー英語フォント20個まとめ（商用可）](http://www.webtoolnavi.com/free-handwritten-font/)
-- [商用OK多数！使いやすい万能フリーフォント最新コレクション 2016年5月度](http://photoshopvip.net/90737)
-
+- [Webページの表現を広げてくれる日本語のWebフォント10選](http://uxmilk.jp/33601) :page_facing_up:
+- [デザイン性の高いクリエイティブなフリーフォント20個まとめ（商用可）](http://www.webtoolnavi.com/creative-font/) :page_facing_up:
+- [クオリティの高い手描き風のフリー英語フォント20個まとめ（商用可）](http://www.webtoolnavi.com/free-handwritten-font/) :page_facing_up:
+- [商用OK多数！使いやすい万能フリーフォント最新コレクション 2016年5月度](http://photoshopvip.net/90737) :page_facing_up:
 
 ## Icons
 
@@ -88,7 +88,7 @@
 - [ICOOON MONO](http://icooon-mono.com/)
 - [TOUCH GESTURE ICONS](http://www.mobiletuxedo.com/touch-gesture-icons/) - Gesture Icon
 
-- [デザインに活躍するフリーアイコン・イラスト素材24個まとめ](http://www.webtoolnavi.com/free-icon-2016-05/?utm_source=feedly&utm_medium=rss&utm_campaign=free-icon-2016-05)
+- [デザインに活躍するフリーアイコン・イラスト素材24個まとめ](http://www.webtoolnavi.com/free-icon-2016-05/?utm_source=feedly&utm_medium=rss&utm_campaign=free-icon-2016-05) :page_facing_up:
 
 
 ## Designs
@@ -174,7 +174,7 @@
 - [CodeStudy](http://jeek.jp/study/exp)
 - [Udemy](https://www.udemy.com/courses/)
 - [ShareWis](https://share-wis.com/)
-- [わかりやすいREADME.mdを書く](http://deeeet.com/writing/2014/07/31/readme/)
+- [わかりやすいREADME.mdを書く](http://deeeet.com/writing/2014/07/31/readme/) :page_facing_up:
 
 ## ビジネスライブラリ
 
