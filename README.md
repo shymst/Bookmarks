@@ -84,6 +84,7 @@
 - [Flaticon](http://www.flaticon.com/)
 - [ICOOON MONO](http://icooon-mono.com/)
 - [TOUCH GESTURE ICONS](http://www.mobiletuxedo.com/touch-gesture-icons/) - Gesture Icon
+- [MAKI](https://www.mapbox.com/maki-icons/) - MAP Icon 
 - [デザインに活躍するフリーアイコン・イラスト素材24個まとめ](http://www.webtoolnavi.com/free-icon-2016-05/?utm_source=feedly&utm_medium=rss&utm_campaign=free-icon-2016-05) :page_facing_up:
 
 
@@ -186,6 +187,7 @@
 
 - [JavaScripting.com](https://www.javascripting.com/) - JavaScript libraries
 - [JSLint](http://www.jslint.com/)
+- [SweetAlert2](https://limonte.github.io/sweetalert2/) - Alert Plugin
 
 #### jQuery
 
@@ -227,3 +229,16 @@ to Swift Converter
 ## Theme
 
 - [Theme.Cards](http://www.theme.cards/) 
+
+
+## フリー素材
+
+- [O-DAN](http://o-dan.net/ja/)
+- [PAKUTASO](https://www.pakutaso.com/)
+- [GIRLY DROP](http://girlydrop.com/)
+- [Free Stock Textures](https://freestocktextures.com/)
+- [textures.com](http://www.textures.com/)
+- [Silhouette Design](http://kage-design.com/wp/)
+- [Human Pictogram 2.0](http://pictogram2.com/)
+- [Instant Logo Search](http://instantlogosearch.com/)
+
