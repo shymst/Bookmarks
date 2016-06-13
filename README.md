@@ -211,7 +211,7 @@
 
 #### Laravel
 
-- [Laravel Recipes](http://recipes.laravel.jp/)
+- [Laravel Recipes](http://recipes.laravel.jp/) 
 
 ### Swift
 
@@ -228,17 +228,26 @@ to Swift Converter
 
 ## Theme
 
-- [Theme.Cards](http://www.theme.cards/) 
+- [Theme.Cards](http://www.theme.cards/) - WordPressやBootstapなどのThemeがまとめてある
 
 
 ## フリー素材
 
-- [O-DAN](http://o-dan.net/ja/)
-- [PAKUTASO](https://www.pakutaso.com/)
-- [GIRLY DROP](http://girlydrop.com/)
-- [Free Stock Textures](https://freestocktextures.com/)
-- [textures.com](http://www.textures.com/)
-- [Silhouette Design](http://kage-design.com/wp/)
-- [Human Pictogram 2.0](http://pictogram2.com/)
-- [Instant Logo Search](http://instantlogosearch.com/)
+- [Silhouette Design](http://kage-design.com/wp/) - シルエット
+- [Human Pictogram 2.0](http://pictogram2.com/) -  人影
+- [Instant Logo Search](http://instantlogosearch.com/) - 有名企業のロゴを検索できる
+
+### Image
+- [O-DAN](http://o-dan.net/ja/) - 複数の無料写真素材サイトから横断検索ができる
+- [PEXELS](https://www.pexels.com/) - 保存時に画像サイズが選べる
+- [GRATISOGRAPHY](http://gratisography.com/) - シュールな写真が多数
+- [picjumbo](https://picjumbo.com/) - 関連画像機能が優秀
+- [SplitShire](http://www.splitshire.com/) - クールな画像が多数
+- [Unsplash](https://unsplash.com/) - 綺麗な画像が多数
+- [PAKUTASO](https://www.pakutaso.com/) - 人物写真が多数
+- [GIRLY DROP](http://girlydrop.com/) - 女子向けの画像が多数
+
+### Texture
+- [Free Stock Textures](https://freestocktextures.com/) - テクスチャ
+- [textures.com](http://www.textures.com/) - テクスチャ
 
