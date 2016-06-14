@@ -71,6 +71,7 @@
 ## Fonts
 
 - [dafont.com](http://www.dafont.com/)
+- [101 best free fonts of 2016, so far](http://www.webdesignerdepot.com/2016/06/101-best-free-fonts-of-2016-so-far/) :page_facing_up:
 - [Webページの表現を広げてくれる日本語のWebフォント10選](http://uxmilk.jp/33601) :page_facing_up:
 - [デザイン性の高いクリエイティブなフリーフォント20個まとめ（商用可）](http://www.webtoolnavi.com/creative-font/) :page_facing_up:
 - [クオリティの高い手描き風のフリー英語フォント20個まとめ（商用可）](http://www.webtoolnavi.com/free-handwritten-font/) :page_facing_up:
