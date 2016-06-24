@@ -3,6 +3,48 @@
 :page_facing_up: : article
 
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [WebTools / Services](#webtools--services)
+  - [Diagram](#diagram)
+  - [Image](#image)
+- [Design](#design)
+  - [Color](#color)
+  - [Prottype](#prottype)
+  - [Stock](#stock)
+- [Fonts](#fonts)
+- [Icons](#icons)
+- [Designs](#designs)
+  - [Web](#web)
+    - [Mobile Responsive](#mobile-responsive)
+  - [Mobile](#mobile)
+- [Sketch Template](#sketch-template)
+  - [Mobile UI Kit](#mobile-ui-kit)
+    - [Parts](#parts)
+    - [Material](#material)
+    - [Mockup](#mockup)
+    - [Flowchart](#flowchart)
+- [Study](#study)
+  - [Business Library](#business-library)
+- [Programming Language](#programming-language)
+  - [JavaScript](#javascript)
+    - [jQuery](#jquery)
+  - [CSS](#css)
+    - [Bootstrap](#bootstrap)
+  - [PHP](#php)
+    - [Laravel](#laravel)
+  - [Swift](#swift)
+    - [Libraries](#libraries)
+- [Theme](#theme)
+- [フリー素材](#%E3%83%95%E3%83%AA%E3%83%BC%E7%B4%A0%E6%9D%90)
+  - [Image](#image-1)
+  - [Texture](#texture)
+- [Google Chrome Extensions](#google-chrome-extensions)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## WebTools / Services
 
 - [goodkeyword](http://goodkeyword.net/) - 関連キーワード検索
@@ -14,13 +56,13 @@
 - [Import.io](https://www.import.io/) - Web Scraping
 - [Web便利ツール@ツールタロウ](https://tool-taro.com/) - More Tools
 - [Text 2 Mind Map](https://www.text2mindmap.com/) - Mind Map
-- [difff《ﾃﾞｭﾌﾌ》](http://difff.jp/) - diff 
+- [difff《ﾃﾞｭﾌﾌ》](http://difff.jp/) - diff
 - [yourbrowser.is](http://yourbrowser.is/) - Browser Check
 - [無料ダイナミックDNS](http://dip.jp/) - Free DNS
 - [中国語ピンイン変換](http://dokochina.com/) - Chinese
 - [Free Online OCR](http://www.onlineocr.net/) - OCR
 - [wordmark.it](http://wordmark.it/) - detects the fonts
-- [Service Safari](http://www.service-safari.com/) - 新しくリリースされたサービス/アプリを紹介 
+- [Service Safari](http://www.service-safari.com/) - 新しくリリースされたサービス/アプリを紹介
 - [mockable](https://www.mockable.io/) - WebAPI Mockup
 - [LinkData.org](http://ja.linkdata.org/) - オープンデータ活用支援プラットフォーム
 - [Lang-8](http://lang-8.com/) - 外国語で書いた文章をネイティブスピーカーが添削
@@ -41,7 +83,7 @@
 - [Facepixelizer](http://www.facepixelizer.com/jp/) - Privacy Image Editor &  anonymizer
 - [20 Free After Effects Templates](http://line25.com/articles/free-after-effects-templates) :page_facing_up:
 
-## Design  
+## Design
 
 - [easel.ly](http://www.easel.ly/) - Infographic
 - [Canva](https://www.canva.com/) - Design
@@ -55,18 +97,18 @@
 
 ### Prottype
 
-- [Prott](https://prottapp.com) 
-- [CanvasFlip](http://www.canvasflip.com/) 
-- [Marvel](https://marvelapp.com/) 
-- [Pixate](http://www.pixate.com/) 
+- [Prott](https://prottapp.com)
+- [CanvasFlip](http://www.canvasflip.com/)
+- [Marvel](https://marvelapp.com/)
+- [Pixate](http://www.pixate.com/)
 
 ### Stock
 
 - [ALLTheFreeStock](http://allthefreestock.com/) - All Free Stock
-- [BONSAI](https://www.hellobonsai.com/best-freelance-tools) - Freelance 
+- [BONSAI](https://www.hellobonsai.com/best-freelance-tools) - Freelance
 - [AlternativeTo](http://alternativeto.net/) - Tools Alternatives
-- [FILEHIPPO](http://filehippo.com/jp/mac/) - Software 
- 
+- [FILEHIPPO](http://filehippo.com/jp/mac/) - Software
+
 
 ## Fonts
 
@@ -79,13 +121,13 @@
 
 ## Icons
 
-- [IconBeast](http://www.iconbeast.com/free/) 
+- [IconBeast](http://www.iconbeast.com/free/)
 - [Ego](http://ego-icons.com/) - radical angular style
 - [100 Responsive Line Icons](https://pixelbuddha.net/freebie/100-free-responsive-line-icons)
 - [Flaticon](http://www.flaticon.com/)
 - [ICOOON MONO](http://icooon-mono.com/)
 - [TOUCH GESTURE ICONS](http://www.mobiletuxedo.com/touch-gesture-icons/) - Gesture Icon
-- [MAKI](https://www.mapbox.com/maki-icons/) - MAP Icon 
+- [MAKI](https://www.mapbox.com/maki-icons/) - MAP Icon
 - [デザインに活躍するフリーアイコン・イラスト素材24個まとめ](http://www.webtoolnavi.com/free-icon-2016-05/?utm_source=feedly&utm_medium=rss&utm_campaign=free-icon-2016-05) :page_facing_up:
 
 
@@ -120,7 +162,7 @@
 ## Sketch Template
 
 - [Freebiesbug](http://freebiesbug.com/sketch-freebies/)
-- [GraphicBurger](http://graphicburger.com/ui-kits/) 
+- [GraphicBurger](http://graphicburger.com/ui-kits/)
 - [VisualHierarchy](https://visualhierarchy.co/shop/product-category/sketch-app-resources/)
 
 ### Mobile UI Kit
@@ -158,7 +200,7 @@
 - [Flow](https://dribbble.com/shots/2588294-Flow-iOS-Wireframe-Kit)
 - [CARBON](http://materialmockups.com/)
 
-#### Flowchart 
+#### Flowchart
 
 - [Flowchart kit](https://www.behance.net/gallery/35717379/Flowchart-kit-Free-mobile-wireframing-kit-for-Sketch)
 
@@ -194,7 +236,7 @@
 
 - [jQuery Cards](http://jquerycards.com/) -  jQuery plugins
 
-### CSS 
+### CSS
 
 - [CSSFlow](http://www.cssflow.com/) - Code Snippets & UI Kits
 - [CodeMyUI](http://codemyui.tumblr.com/) - Code Snippets
@@ -212,14 +254,14 @@
 
 #### Laravel
 
-- [Laravel Recipes](http://recipes.laravel.jp/) 
+- [Laravel Recipes](http://recipes.laravel.jp/)
 
 ### Swift
 
 - [公式日本語ドキュメント](https://developer.apple.com/jp/documentation/)
 - [Swiftify](https://objectivec2swift.com/#/home/main) - Objective-C
-to Swift Converter 
-- [Swiftのコンパイルエラー寄せ集め](https://samekard.blogspot.jp/2014/09/swifterror.html) :page_facing_up: 
+to Swift Converter
+- [Swiftのコンパイルエラー寄せ集め](https://samekard.blogspot.jp/2014/09/swifterror.html) :page_facing_up:
 
 #### Libraries
 
@@ -256,21 +298,21 @@ to Swift Converter
 
 ## Google Chrome Extensions
 
-- [Adblock Plus]() - 
-- [ato-ichinen]() - 
+- [Adblock Plus]() -
+- [ato-ichinen]() -
 - [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) - ページキャプチャに図やテキストの書き込みや保存ができる
-- [BuiltWith Technology Profiler]() - 
-- [Clear Cache]() - 
+- [BuiltWith Technology Profiler]() -
+- [Clear Cache]() -
 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - カラーコードを確認
-- [Evernote Web Clipper]() - 
-- [Feedly Counter]() - 
-- [Feedly Subscribe Button]() - 
+- [Evernote Web Clipper]() -
+- [Feedly Counter]() -
+- [Feedly Subscribe Button]() -
 - [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) - 複数のページを一度に開く
 - [Page Analytics](https://chrome.google.com/webstore/detail/page-analytics-by-google/fnbdnhhicmebfgdgglcdacdapkcihcoh) - ページ内でPVを確認
 - [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj) - ワンクリックでPocketに追加
 - [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-website-rankin/hoklmmgfnpapgjgcpechhaamimifchmp) - サイトランキングや解析データを見れる
 - [SimpleExtManager](https://chrome.google.com/webstore/detail/simpleextmanager/kniehgiejgnnpgojkdhhjbgbllnfkfdk) - 拡張機能の管理
-- [Template Switcher for Gmail]() - 
-- [Vimium]() - 
-- [ZenHub for GitHub]() - 
+- [Template Switcher for Gmail]() -
+- [Vimium]() -
+- [ZenHub for GitHub]() -
 
