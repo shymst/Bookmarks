@@ -68,7 +68,7 @@
 - [LinkData.org](http://ja.linkdata.org/) - オープンデータ活用支援プラットフォーム
 - [Lang-8](http://lang-8.com/) - 外国語で書いた文章をネイティブスピーカーが添削
 - [Optimizely](www.optimizely.co) - A/B Testing
-
+- [BASE64 Image Encoder](https://www.base64-image.de/) - 画像をbase64フォーマットに変換
 
 ### Diagram
 
@@ -122,6 +122,7 @@
 
 ## Icons
 
+- [Icons8](https://icons8.com/) - 様々なフォーマットに対応
 - [IconBeast](http://www.iconbeast.com/free/)
 - [Ego](http://ego-icons.com/) - radical angular style
 - [100 Responsive Line Icons](https://pixelbuddha.net/freebie/100-free-responsive-line-icons)
@@ -296,6 +297,7 @@ to Swift Converter
 
 - [Free Stock Textures](https://freestocktextures.com/) - テクスチャ
 - [textures.com](http://www.textures.com/) - テクスチャ
+- [デザインの雰囲気をガラリと変える、すごい無料テクスチャ素材まとめ](http://photoshopvip.net/91377)  :page_facing_up:
 
 ## Google Chrome Extensions
 
