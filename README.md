@@ -6,7 +6,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-# TOC
+## TOC
 
 - [WebTools / Services](#webtools--services)
   - [Diagram](#diagram)
@@ -46,7 +46,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# WebTools / Services
+# _WebTools / Services_
 
 - [goodkeyword](http://goodkeyword.net/) - 関連キーワード検索
 - [codic](https://codic.jp/) - Code Naming
@@ -86,7 +86,7 @@
 - [Facepixelizer](http://www.facepixelizer.com/jp/) - Privacy Image Editor &  anonymizer
 - [20 Free After Effects Templates](http://line25.com/articles/free-after-effects-templates) :page_facing_up:
 
-# Design
+# _Design_
 
 - [easel.ly](http://www.easel.ly/) - Infographic
 - [Canva](https://www.canva.com/) - Design
@@ -118,7 +118,7 @@
 - [FILEHIPPO](http://filehippo.com/jp/mac/) - Software
 
 
-# Fonts
+# _Fonts_
 
 - [dafont.com](http://www.dafont.com/)
 - [101 best free fonts of 2016, so far](http://www.webdesignerdepot.com/2016/06/101-best-free-fonts-of-2016-so-far/) :page_facing_up:
@@ -127,7 +127,7 @@
 - [クオリティの高い手描き風のフリー英語フォント20個まとめ（商用可）](http://www.webtoolnavi.com/free-handwritten-font/) :page_facing_up:
 - [商用OK多数！使いやすい万能フリーフォント最新コレクション 2016年5月度](http://photoshopvip.net/90737) :page_facing_up:
 
-# Icons
+# _Icons_
 
 - [Icons8](https://icons8.com/) - 様々なフォーマットに対応
 - [IconBeast](http://www.iconbeast.com/free/)
@@ -140,7 +140,7 @@
 - [デザインに活躍するフリーアイコン・イラスト素材24個まとめ](http://www.webtoolnavi.com/free-icon-2016-05/?utm_source=feedly&utm_medium=rss&utm_campaign=free-icon-2016-05) :page_facing_up:
 
 
-# Designs
+# _Designs_
 
 - [dribbble](https://dribbble.com/)
 - [Behance](https://www.behance.net/)
@@ -168,7 +168,7 @@
 - [CAPPTIVATE.co](http://capptivate.co/)
 
 
-# Sketch
+# _Sketch_
 
 ## Plugins
 - [Sketch Color](https://github.com/ngs/sketchplugin-swift-color) - 色をSwiftのUIColorで出力できる
@@ -225,7 +225,7 @@
 - [Flowchart kit](https://www.behance.net/gallery/35717379/Flowchart-kit-Free-mobile-wireframing-kit-for-Sketch)
 
 
-# Study
+# _Study_
 
 - [Dotinstall](http://dotinstall.com/)
 - [Progate](https://prog-8.com/)
@@ -242,7 +242,7 @@
 - [Goodfind](https://engineer.goodfind.jp)
 
 
-# Programming Language
+# _Programming Language_
 
 - [CodePen](http://codepen.io/)
 
@@ -289,12 +289,12 @@ to Swift Converter
 - [iOS Cookies](http://www.ioscookies.com/)
 - [Swift Modules](https://swiftmodules.com/)
 
-# Theme
+# _Theme_
 
 - [Theme.Cards](http://www.theme.cards/) - WordPressやBootstapなどのThemeがまとめてある
 
 
-# Materials
+# _Materials_
 
 - [Silhouette Design](http://kage-design.com/wp/) - シルエット
 - [Human Pictogram 2.0](http://pictogram2.com/) -  人影
@@ -317,7 +317,7 @@ to Swift Converter
 - [textures.com](http://www.textures.com/) - テクスチャ
 - [デザインの雰囲気をガラリと変える、すごい無料テクスチャ素材まとめ](http://photoshopvip.net/91377)  :page_facing_up:
 
-# Google Chrome Extensions
+# _Google Chrome Extensions_
 
 - [Adblock Plus]() -
 - [ato-ichinen]() -
