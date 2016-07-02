@@ -6,7 +6,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-## TOC
+# TOC
 
 - [WebTools / Services](#webtools--services)
   - [Diagram](#diagram)
@@ -46,7 +46,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## WebTools / Services
+# WebTools / Services
 
 - [goodkeyword](http://goodkeyword.net/) - 関連キーワード検索
 - [codic](https://codic.jp/) - Code Naming
@@ -72,13 +72,13 @@
 
 
 
-### Diagram
+## Diagram
 
 - [drow.io](https://www.draw.io/) - Diagram
 - [gliffy](https://www.gliffy.com/) - Diagram
 - [Cacoo](https://cacoo.com/) - Diagram
 
-### Image
+## Image
 
 - [オンラインイメージ最適化ツール](http://optimizilla.com/ja/) - 画像圧縮
 - [Compressor.io](https://compressor.io/) - 画像圧縮
@@ -86,7 +86,7 @@
 - [Facepixelizer](http://www.facepixelizer.com/jp/) - Privacy Image Editor &  anonymizer
 - [20 Free After Effects Templates](http://line25.com/articles/free-after-effects-templates) :page_facing_up:
 
-## Design
+# Design
 
 - [easel.ly](http://www.easel.ly/) - Infographic
 - [Canva](https://www.canva.com/) - Design
@@ -94,23 +94,23 @@
 - [Picky-Pics](https://picky-pics.com/) - Design
 - [Squarespace Logo](https://www.squarespace.com/logo) - Logo
 
-### Archive
+## Archive
 - [Great Apps Timeline](http://greatappstimeline.xyz/) - 著名アプリの変遷を年代別にまとめたアーカイブサイト
 - [UX Archive](http://uxarchive.com/) - アプリの機能別に画面遷移をまとめているアーカイブサイト
 
 
-### Color
+## Color
 
 - [Coolors](https://coolors.co/) - Color
 
-### Prottype
+## Prottype
 
 - [Prott](https://prottapp.com)
 - [CanvasFlip](http://www.canvasflip.com/)
 - [Marvel](https://marvelapp.com/)
 - [Pixate](http://www.pixate.com/)
 
-### Stock
+## Stock
 
 - [ALLTheFreeStock](http://allthefreestock.com/) - All Free Stock
 - [BONSAI](https://www.hellobonsai.com/best-freelance-tools) - Freelance
@@ -118,7 +118,7 @@
 - [FILEHIPPO](http://filehippo.com/jp/mac/) - Software
 
 
-## Fonts
+# Fonts
 
 - [dafont.com](http://www.dafont.com/)
 - [101 best free fonts of 2016, so far](http://www.webdesignerdepot.com/2016/06/101-best-free-fonts-of-2016-so-far/) :page_facing_up:
@@ -127,7 +127,7 @@
 - [クオリティの高い手描き風のフリー英語フォント20個まとめ（商用可）](http://www.webtoolnavi.com/free-handwritten-font/) :page_facing_up:
 - [商用OK多数！使いやすい万能フリーフォント最新コレクション 2016年5月度](http://photoshopvip.net/90737) :page_facing_up:
 
-## Icons
+# Icons
 
 - [Icons8](https://icons8.com/) - 様々なフォーマットに対応
 - [IconBeast](http://www.iconbeast.com/free/)
@@ -140,24 +140,24 @@
 - [デザインに活躍するフリーアイコン・イラスト素材24個まとめ](http://www.webtoolnavi.com/free-icon-2016-05/?utm_source=feedly&utm_medium=rss&utm_campaign=free-icon-2016-05) :page_facing_up:
 
 
-## Designs
+# Designs
 
 - [dribbble](https://dribbble.com/)
 - [Behance](https://www.behance.net/)
 - [Design Hunt](http://talkaboutdesign.com/)
 
 
-### Web
+## Web
 
 - [MUUUUU.ORG](http://muuuuu.org/) - 縦長のwebデザインギャラリー
 - [Awwwards](http://www.awwwards.com/) - Best Web Design Trends
 - [Inspiration UI](http://inspirationui.com/)
 
-#### Mobile Responsive
+### Mobile Responsive
 
 - [sps collection](http://spscollection.com/) - スマートフォンサイトのデザインリンク集
 
-### Mobile
+## Mobile
 
 - [Collect UI](http://collectui.com/designs)
 - [UI Garage](http://uigarage.net/)
@@ -168,19 +168,24 @@
 - [CAPPTIVATE.co](http://capptivate.co/)
 
 
-## Sketch
+# Sketch
 
-### Plugins
-- [Sketch-color](https://github.com/ngs/sketchplugin-swift-color)
-- [Sketch-Measure](https://github.com/utom/sketch-measure)
+## Plugins
+- [Sketch Color](https://github.com/ngs/sketchplugin-swift-color) - 色をSwiftのUIColorで出力できる
+- [Sketch Measure](https://github.com/utom/sketch-measure) - 各要素のマージンを表示できる
+- [Sketch Distributor](https://github.com/PEZ/SketchDistributor) - 複数の要素を等間隔に再配置できる
+- [Content Generator for Sketch](https://github.com/timuric/Content-generator-sketch-plugin) - ダミーデータを生成できる
+- [Sketch Sort Layers](https://github.com/getflourish/Sketch-Sort-Layers) - レイヤーやアートボードをソートできる
+- [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) - グローバルにカラーデータを保存・読み込みする
+- [Align Text Baseline for Sketch](https://github.com/soutaro/Align-text-baseline-sketch-plugin) - 文字テキストのベースライン揃える（日本語フォントには必須?）
 
-### Template
+## Template
 
 - [Freebiesbug](http://freebiesbug.com/sketch-freebies/)
 - [GraphicBurger](http://graphicburger.com/ui-kits/)
 - [VisualHierarchy](https://visualhierarchy.co/shop/product-category/sketch-app-resources/)
 
-#### Mobile UI Kit
+### Mobile UI Kit
 
 - [The Ciao UI Kit](https://dribbble.com/shots/2667657-The-Ciao-UI-Kit)
 - [Recipes App UI Kit Freebie](https://dribbble.com/shots/2661249-Recipes-App-UI-Kit-Freebie)
@@ -200,27 +205,27 @@
 - [Instagram-UI-Kit](https://dribbble.com/shots/2735981-Instagram-UI-Kit)
 
 
-##### Parts
+#### Parts
 
 - [Minimal UI Kit](https://dribbble.com/shots/2671827-Minimal-UI-Kit)
 - [Free mini UI kit V2](http://awesomed.co/free-mini-ui-kit-v2/)
 
-#### Material
+### Material
 
 - [Material Design Wireframe Kit](https://dribbble.com/shots/2660501-Material-Design-Wireframe-Kit-v-02)
 - [Free Chat UI kit](https://www.invisionapp.com/chat)
 
-#### Mockup
+### Mockup
 
 - [Flow](https://dribbble.com/shots/2588294-Flow-iOS-Wireframe-Kit)
 - [CARBON](http://materialmockups.com/)
 
-#### Flowchart
+### Flowchart
 
 - [Flowchart kit](https://www.behance.net/gallery/35717379/Flowchart-kit-Free-mobile-wireframing-kit-for-Sketch)
 
 
-## Study
+# Study
 
 - [Dotinstall](http://dotinstall.com/)
 - [Progate](https://prog-8.com/)
@@ -231,27 +236,27 @@
 - [ShareWis](https://share-wis.com/)
 - [わかりやすいREADME.mdを書く](http://deeeet.com/writing/2014/07/31/readme/) :page_facing_up:
 
-### Business Library
+## Business Library
 
 - [SELECK](https://seleck.cc/)
 - [Goodfind](https://engineer.goodfind.jp)
 
 
-## Programming Language
+# Programming Language
 
 - [CodePen](http://codepen.io/)
 
-### JavaScript
+## JavaScript
 
 - [JavaScripting.com](https://www.javascripting.com/) - JavaScript libraries
 - [JSLint](http://www.jslint.com/)
 - [SweetAlert2](https://limonte.github.io/sweetalert2/) - Alert Plugin
 
-#### jQuery
+### jQuery
 
 - [jQuery Cards](http://jquerycards.com/) -  jQuery plugins
 
-### CSS
+## CSS
 
 - [CSSFlow](http://www.cssflow.com/) - Code Snippets & UI Kits
 - [CodeMyUI](http://codemyui.tumblr.com/) - Code Snippets
@@ -259,43 +264,43 @@
 - [Flexbox Patterns](http://www.flexboxpatterns.com/home) - Examples and source code
 - [CSSgram](https://una.im/CSSgram/) - Instagramの様なフィルターをCSSで実装
 
-#### Bootstrap
+### Bootstrap
 
 - [Bootsnipp](http://bootsnipp.com/) - Design elements
 - [Bootswatch](http://bootswatch.com/) - Free themes for Bootstrap
 - [Bootstrap 4 CheatSheet](http://hackerthemes.com/bootstrap-cheatsheet/)
 
-### PHP
+## PHP
 
-#### Laravel
+### Laravel
 
 - [Laravel Recipes](http://recipes.laravel.jp/)
 
-### Swift
+## Swift
 
 - [公式日本語ドキュメント](https://developer.apple.com/jp/documentation/)
 - [Swiftify](https://objectivec2swift.com/#/home/main) - Objective-C
 to Swift Converter
 - [Swiftのコンパイルエラー寄せ集め](https://samekard.blogspot.jp/2014/09/swifterror.html) :page_facing_up:
 
-#### Libraries
+### Libraries
 
 - [Cocoa Controls](https://www.cocoacontrols.com/) - open source UI components
 - [iOS Cookies](http://www.ioscookies.com/)
 - [Swift Modules](https://swiftmodules.com/)
 
-## Theme
+# Theme
 
 - [Theme.Cards](http://www.theme.cards/) - WordPressやBootstapなどのThemeがまとめてある
 
 
-## フリー素材
+# Materials
 
 - [Silhouette Design](http://kage-design.com/wp/) - シルエット
 - [Human Pictogram 2.0](http://pictogram2.com/) -  人影
 - [Instant Logo Search](http://instantlogosearch.com/) - 有名企業のロゴを検索できる
 
-### Image
+## Image
 
 - [O-DAN](http://o-dan.net/ja/) - 複数の無料写真素材サイトから横断検索ができる
 - [PEXELS](https://www.pexels.com/) - 保存時に画像サイズが選べる
@@ -306,13 +311,13 @@ to Swift Converter
 - [PAKUTASO](https://www.pakutaso.com/) - 人物写真が多数
 - [GIRLY DROP](http://girlydrop.com/) - 女子向けの画像が多数
 
-### Texture
+## Texture
 
 - [Free Stock Textures](https://freestocktextures.com/) - テクスチャ
 - [textures.com](http://www.textures.com/) - テクスチャ
 - [デザインの雰囲気をガラリと変える、すごい無料テクスチャ素材まとめ](http://photoshopvip.net/91377)  :page_facing_up:
 
-## Google Chrome Extensions
+# Google Chrome Extensions
 
 - [Adblock Plus]() -
 - [ato-ichinen]() -
