@@ -168,13 +168,19 @@
 - [CAPPTIVATE.co](http://capptivate.co/)
 
 
-## Sketch Template
+## Sketch
+
+### Plugins
+- [Sketch-color](https://github.com/ngs/sketchplugin-swift-color)
+- [Sketch-Measure](https://github.com/utom/sketch-measure)
+
+### Template
 
 - [Freebiesbug](http://freebiesbug.com/sketch-freebies/)
 - [GraphicBurger](http://graphicburger.com/ui-kits/)
 - [VisualHierarchy](https://visualhierarchy.co/shop/product-category/sketch-app-resources/)
 
-### Mobile UI Kit
+#### Mobile UI Kit
 
 - [The Ciao UI Kit](https://dribbble.com/shots/2667657-The-Ciao-UI-Kit)
 - [Recipes App UI Kit Freebie](https://dribbble.com/shots/2661249-Recipes-App-UI-Kit-Freebie)
@@ -194,7 +200,7 @@
 - [Instagram-UI-Kit](https://dribbble.com/shots/2735981-Instagram-UI-Kit)
 
 
-#### Parts
+##### Parts
 
 - [Minimal UI Kit](https://dribbble.com/shots/2671827-Minimal-UI-Kit)
 - [Free mini UI kit V2](http://awesomed.co/free-mini-ui-kit-v2/)
