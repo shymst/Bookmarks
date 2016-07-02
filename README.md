@@ -126,6 +126,7 @@
 - [デザイン性の高いクリエイティブなフリーフォント20個まとめ（商用可）](http://www.webtoolnavi.com/creative-font/) :page_facing_up:
 - [クオリティの高い手描き風のフリー英語フォント20個まとめ（商用可）](http://www.webtoolnavi.com/free-handwritten-font/) :page_facing_up:
 - [商用OK多数！使いやすい万能フリーフォント最新コレクション 2016年5月度](http://photoshopvip.net/90737) :page_facing_up:
+- [日本語フリーフォント、これだけは欲しい厳選22個](http://photoshopvip.net/japanese-free-fonts) :page_facing_up:
 
 # _Icons_
 
